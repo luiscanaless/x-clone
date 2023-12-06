@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Live Site
+
+Check out the live site: [Live Site](https://x-clone-luiscanaless.vercel.app/)
 
 ## Getting Started
 
